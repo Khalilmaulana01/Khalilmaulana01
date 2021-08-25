@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Chaos Engineering Enthusiast and Sate Padang lover. I also like Javascript and I'm exploring Backend Tech Stuff</samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Chaos Engineering Enthusiast and Sate Padang lover. I also like Javascript and currently exploring Backend Tech Stuff</samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
